@@ -1,6 +1,4 @@
 # golang-simplehttp
-Trying out golang http server with docker
-
 This program will start a http server listen to localhost:8080
 and display Hello World in the index page.
 
