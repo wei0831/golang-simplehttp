@@ -1,0 +1,7 @@
+FROM scratch
+LABEL maintainer="wei0831@gmail.com"
+ADD bin/simplehttp /
+ENTRYPOINT ["/simplehttp"]
+EXPOSE 8080
+
+
